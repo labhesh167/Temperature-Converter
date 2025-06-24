@@ -1,0 +1,41 @@
+.container {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 2px solid #4CAF50;
+  border-radius: 12px;
+  background-color: #f9ffc77e;
+  text-align: center;
+}
+
+label {
+  font-weight: bold;
+  margin-right: 8px;
+}
+
+input, select {
+  padding: 6px 8px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+button {
+  padding: 8px 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+p {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+}
