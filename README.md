@@ -35,5 +35,5 @@ A simple and clean web application built with **Angular** that allows users to c
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/Temperature-converter.git
+git clone https://github.com/labhesh167/Temperature-converter.git
 cd Temperature-converter
