@@ -1,59 +1,39 @@
-# TempConverter
+# 🌡️ Temperature Converter (Angular)
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.3.
+A simple and clean web application built with **Angular** that allows users to convert temperature values between **Celsius** and **Fahrenheit**. Users can input a value, select the conversion direction, and get the converted result instantly.
 
-## Development server
+---
 
-To start a local development server, run:
+## 📸 Demo
 
+![image](https://github.com/user-attachments/assets/0bec9631-a4da-4e60-b5bf-a046c1fd89c8)
+![image](https://github.com/user-attachments/assets/98faed79-cd50-4a4a-a335-9cc578e89134)
+
+
+---
+
+## ✨ Features
+
+- Convert **Celsius to Fahrenheit**.
+- Convert **Fahrenheit to Celsius**.
+- Clean, responsive, and minimal user interface.
+- Real-time result display.
+- User-friendly form with a conversion selector.
+
+---
+
+## 📦 Tech Stack
+
+- **Angular 17+ (Standalone Components)**
+- **TypeScript**
+- **HTML & CSS**
+- **FormsModule** for two-way data binding
+
+---
+
+## 🚀 How to Run Locally
+
+### 1️⃣ Clone the repository
 ```bash
-ng serve
-```
-
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+git clone https://github.com/yourusername/Temperature-converter.git
+cd Temperature-converter
